@@ -1,2 +1,2 @@
-# PQRSD
-Repositorio del proyecto final PQRSD desarrollado en microservicio 
+  # Proyecto PQRSD
+   Desarrollo del sistema de gestión de PQRSD bajo metodología Scrum.  
